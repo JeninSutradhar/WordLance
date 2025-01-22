@@ -40,10 +40,8 @@ Unauthorized use against any target without explicit permission is illegal.*
 Distributed under MIT License. See `LICENSE` for details.
 ```
 
----
-
 ### Suggested Repository Structure  
-```
+```bash
 WordLance/
 ├── docs/                    # Extended documentation
 ├── samples/                 # Example configs/outputs
@@ -55,4 +53,4 @@ WordLance/
 ├── requirements.txt
 └── README.md                # Shown above
 ```
-\
+
